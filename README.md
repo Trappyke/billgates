@@ -1,4 +1,6 @@
 # billgates
 A Responsive Web page Build with HTML and CSS
 
-You can dork this repo
+##
+- Site Live at https://weston.4pftrappy.me/billgates/
+- You can dork this repo
